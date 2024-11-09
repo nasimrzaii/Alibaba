@@ -1,0 +1,146 @@
+*{margin: 0; padding: 0;}
+header{
+    height: 64px;
+    width: 100%;
+}
+#icon-alibaba{
+    height: 30px;
+    margin-left: 45px;
+}
+nav a{
+    font-family: iranyekanwebregular;
+    font-weight: 500;
+}
+li a i{
+    color: gray;
+    vertical-align: middle;
+    font-size: 1.4rem;
+}
+.navbar-nav li:hover a{
+    background-color: #f8fafb;
+    border-radius: 5px;
+}
+#hero{
+    height: 320px;
+    width: 100%;
+}
+#product-box{
+    border: 1px solid #aec4b9;
+}
+#product-box i{
+    color: #4b5952;
+    text-align: center;
+    
+}
+#product-box a{
+    color: #4b5952;
+    font-family: iranyekanwebmedium;
+}
+#product-box li:hover a{
+    color: #0077db;
+}
+#product-box li:hover i{
+    color: #0077db;
+}
+#form{
+    gap: 15px;
+}
+#form1{
+    grid: 3;
+}
+#button-search{
+    background-color: #fdb713;
+    color: #0a0b0c;
+    border: none;
+}
+h5{
+    font-family: YekanBakhMedium;
+    color: #000000;
+}
+#product-card{
+    border: 1px solid #aec4b9;
+}
+#product-card a{
+    display: flex;
+    text-decoration: none;
+    color: #000000;
+}
+#product-card p{
+   font-family: iranyekanwebmedium;
+   margin-right: 10%;
+}
+#new{
+    background-color: #84e199;
+}
+#app{
+    border: 1px solid #aec4b9;
+    font-family: iranyekanwebmedium;
+}
+#app #p{
+    color: rgb(150, 150, 150);
+}
+#accordion{
+    font-family: YekanBakhBold;
+    font-weight: 500;
+}
+.card-body p{
+    color: #63726b;
+}
+#baggage-img{
+    width: 100%;
+}
+#text{
+    color: #4b5259;
+}
+article p{
+    font-family: YekanBakhMedium;
+}
+#border-article{
+    border-bottom: 1px solid #aec4b9;
+}
+#text2{
+    color: #63726b;
+    font-family: YekanBakhMedium;
+}
+#text1{
+    font-family: iranyekanwebregular;
+    color: #44494e;
+}
+#last-p{
+    color: #63726b;
+    font-family: YekanBakhMedium;
+    font-size: 0.8rem;
+}
+#social-media{
+    color: #63726b;
+    font-size: 1.5rem;
+}
+#p-footer{
+    font-family: iranyekanwebregular;
+    color: #000000;
+}
+footer li a{
+    text-decoration: none;
+    color: #000;
+    font-family: YekanBakhMedium;
+}
+footer li{
+    margin-bottom: 5px;
+}
+footer li:hover a{
+    color: #4b5952;
+}
+footer ul{
+    list-style: none;
+}
+#img-footer div{
+    margin-left: 10px;
+}
+#icon-footer{
+    height: 30px;
+}
+#address{
+    color: #4b5952;
+    font-family: iranyekanwebmedium;
+    font-size: 0.8rem;
+}
